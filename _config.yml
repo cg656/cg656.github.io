@@ -1,6 +1,6 @@
 # main text of home
 name: Chirru
-bio: A Man with super panda mode
+bio: 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: myemail@gmail.com
 authors:
     johndoe:
         name: Chirru
-        bio: A man with super panda mode
+        bio: 
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
