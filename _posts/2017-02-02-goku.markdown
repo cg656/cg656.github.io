@@ -2,7 +2,7 @@
 title: goku
 layout: post
 blog: true
-date:2107-02-02
+date:2107-02-02 00:00
 ---
 
-### handling
+### Super Saiyan
